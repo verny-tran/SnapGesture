@@ -1,6 +1,6 @@
 <br/>
 <p align="center" width="100%">
-    <img width="15%" src="https://github.com/verny-tran/LoadControl/blob/main/Resources/Icons/LoadControl.png"> 
+    <img width="15%" src="https://github.com/verny-tran/SnapGesture/blob/main/Resources/Grid.png"> 
 </p>
 
 <h1 align="center"> SnapGesture </h1>
